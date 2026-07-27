@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GamingSMP-8nsL.aternos.me:55141",
-    "port": 55141,
+    "ip": "ReallyRafaelGamingYt.aternos.me",
+    "port":"25578" ,
     "version": "",
     "try-creative": false
   },
